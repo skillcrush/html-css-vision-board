@@ -15,62 +15,62 @@ body {
 	text-transform: uppercase;
 }
 
-#vision-board .block {
+ .block {
 	float: left;
 	box-sizing: border-box;
 	width: 400px;
 }
 
-#vision-board .small-block {
+ .small-block {
 	padding: 20px 40px;
 	height: 210px;
 }
 
-#vision-board .large-block {
+ .large-block {
 	padding: 70px 40px;
 	height: 430px;
 }
 
-#vision-board .center {
+ .center {
 	text-align: center;
 }
 
-#vision-board .right {
+ .right {
 	text-align: right;
 }
 
-#vision-board .dark-bg {
+ .dark-bg {
 	background: #3B3B3B;
 	color: #FFFFFF;
 }
 
-#vision-board .light-bg {
+ .light-bg {
 	background: #FFFFFF;
 }
 
 
-#vision-board .highlight {
+ .highlight {
 	padding: 5px 15px;
 	background: #FFF44F;
 	font-size: 18px;
 }
 
-#vision-board .marker {
+ .marker {
 	font-family: 'Permanent Marker', cursive;
 	font-weight: normal;
 }
 
-#vision-board p strong {
+ strong {
 	font-size: 38px;
 	text-transform: none; 
 	line-height: 38px;
 }
 
-#vision-board .title {
+ .title {
 	margin: 10px 0;
 	font-size: 30px;
 }
 
-#vision-board .top-padding {
+ .top-padding {
 	padding-top: 40px;
 }  
