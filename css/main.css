@@ -14,24 +14,24 @@ body {
 	text-transform: uppercase;
 }
 
-#vision-board .block {
+.block {
 	float: left;
 	box-sizing: border-box;
 	width: 400px;
 }
 
-#vision-board .small-block {
+.small-block {
 	height: 210px;
 }
 
-#vision-board .large-block {
+.large-block {
 	height: 430px;
 }
 
-#vision-board .center {
+.center {
 	text-align: center;
 }
 
-#vision-board .right {
+.right {
 	text-align: right;
 }
