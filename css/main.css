@@ -9,9 +9,6 @@ body {
 	background: url('../img/background.png');
 	background-size: cover;
 	font-family: 'Montserrat', sans-serif;
-	font-size: 20px;
-	font-weight: 700;
-	text-transform: uppercase;
 }
 
 .block {
