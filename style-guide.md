@@ -12,5 +12,5 @@ Images are in the ‘img’ folder
 ## Fonts
 - Montserrat (700)
 - Permanent Marker (normal)
-- Sizes: 20px | 30px | 38px
+- Sizes: 18px | 20px | 30px | 38px
 
