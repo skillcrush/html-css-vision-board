@@ -3,15 +3,13 @@ body {
 }
 
 #vision-board {
-	margin: 50px auto;
 	width: 1200px;
 	height: 850px;
+	margin: 0 auto;
 	overflow: auto;
 	background: url('../img/background.png');
 	background-size: cover;
 	font-family: 'Montserrat', sans-serif;
-	font-size: 20px;
-	font-weight: 700;
 	text-transform: uppercase;
 }
 
