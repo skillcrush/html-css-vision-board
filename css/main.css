@@ -15,7 +15,7 @@ body {
 }
 
 .block {
-	outline: 1px dashed darkgreen;
+	/* outline: 1px dashed darkgreen; */
 	float: left;
 	box-sizing: border-box;
 	width: 400px;
@@ -24,11 +24,13 @@ body {
 .small-block {
 	padding: 20px 40px;
 	height: 210px;
+	padding: 20px 40px;
 }
 
 .large-block {
 	padding: 70px 40px;
 	height: 430px;
+	padding: 70px 40px;
 }
 
 .center {
@@ -39,26 +41,19 @@ body {
 	text-align: right;
 }
 
+.light-bg {
+	background: #FFFFFF;
+}
+
 .dark-bg {
 	background: #3B3B3B;
 	color: #FFFFFF;
 }
 
-.light-bg {
-	background: #FFFFFF;
-}
-
-
 .highlight {
-	padding: 5px 15px;
 	background: #FFF44F;
 	font-size: 18px;
-}
-
-.year {
-	font-family: 'Permanent Marker', cursive;
-	font-weight: normal;
-	font-size: 18px;
+	padding: 5px 15px;
 }
 
 strong {
@@ -68,8 +63,13 @@ strong {
 }
 
 .title {
-	margin: 10px 0;
 	font-size: 30px;
+	margin: 10px 0;
+}
+
+.year {
+	font-family: 'Permanent Marker', cursive;
+	font-size: 18px;
 }
 
 .top-padding {
