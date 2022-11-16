@@ -14,6 +14,7 @@ body {
 }
 
 .block {
+	outline: 1px dashed darkgreen;
 	float: left;
 	box-sizing: border-box;
 	width: 400px;
@@ -21,10 +22,12 @@ body {
 
 .small-block {
 	height: 210px;
+	padding: 20px 40px;
 }
 
 .large-block {
 	height: 430px;
+	padding: 70px 40px;
 }
 
 .center {
