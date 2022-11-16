@@ -14,63 +14,64 @@ body {
 	font-size: 20px;
 }
 
- .block {
+.block {
+	outline: 1px dashed darkgreen;
 	float: left;
 	box-sizing: border-box;
 	width: 400px;
 }
 
- .small-block {
+.small-block {
 	padding: 20px 40px;
 	height: 210px;
 }
 
- .large-block {
+.large-block {
 	padding: 70px 40px;
 	height: 430px;
 }
 
- .center {
+.center {
 	text-align: center;
 }
 
- .right {
+.right {
 	text-align: right;
 }
 
- .dark-bg {
+.dark-bg {
 	background: #3B3B3B;
 	color: #FFFFFF;
 }
 
- .light-bg {
+.light-bg {
 	background: #FFFFFF;
 }
 
 
- .highlight {
+.highlight {
 	padding: 5px 15px;
 	background: #FFF44F;
 	font-size: 18px;
 }
 
- .marker {
+.year {
 	font-family: 'Permanent Marker', cursive;
 	font-weight: normal;
 	font-size: 18px;
 }
 
- strong {
+strong {
 	font-size: 38px;
-	text-transform: none; 
 	line-height: 38px;
+	text-transform: none;
 }
 
- .title {
+.title {
 	margin: 10px 0;
 	font-size: 30px;
 }
 
- .top-padding {
+.top-padding {
 	padding-top: 40px;
-}  
+}
