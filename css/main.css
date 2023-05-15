@@ -22,13 +22,11 @@ body {
 }
 
 .small-block {
-	padding: 20px 40px;
 	height: 210px;
 	padding: 20px 40px;
 }
 
 .large-block {
-	padding: 70px 40px;
 	height: 430px;
 	padding: 70px 40px;
 }
