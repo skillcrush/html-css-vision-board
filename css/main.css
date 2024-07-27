@@ -1,75 +1,76 @@
 body {
-	background: #E8E8E8;
+  background: #E8E8E8;
+  color: #3B3B3B;
 }
 
 #vision-board {
-	width: 1200px;
-	height: 850px;
-	margin: 50px auto;
-	overflow: auto;
-	background: url('../img/background.png');
-	background-size: cover;
-	font-family: 'Montserrat', sans-serif;
-	text-transform: uppercase;
-	font-size: 20px;
+  width: 1200px;
+  height: 850px;
+  margin: 50px auto;
+  overflow: auto;
+  background: url('../img/background.png');
+  background-size: cover;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  font-size: 20px;
 }
 
 .block {
-	/* outline: 1px dashed darkgreen; */
-	float: left;
-	box-sizing: border-box;
-	width: 400px;
+  /* outline: 1px dashed darkgreen; */
+  float: left;
+  box-sizing: border-box;
+  width: 400px;
 }
 
 .small-block {
-	height: 210px;
-	padding: 20px 40px;
+  height: 210px;
+  padding: 20px 40px;
 }
 
 .large-block {
-	height: 430px;
-	padding: 70px 40px;
+  height: 430px;
+  padding: 70px 40px;
 }
 
 .center {
-	text-align: center;
+  text-align: center;
 }
 
 .right {
-	text-align: right;
+  text-align: right;
 }
 
 .light-bg {
-	background: #FFFFFF;
+  background: #FFFFFF;
 }
 
 .dark-bg {
-	background: #3B3B3B;
-	color: #FFFFFF;
+  background: #3B3B3B;
+  color: #FFFFFF;
 }
 
 .highlight {
-	background: #FFF44F;
-	font-size: 18px;
-	padding: 5px 15px;
+  background: #FFF44F;
+  font-size: 18px;
+  padding: 5px 15px;
 }
 
 strong {
-	font-size: 38px;
-	line-height: 38px;
-	text-transform: none;
+  font-size: 38px;
+  line-height: 38px;
+  text-transform: none;
 }
 
 .title {
-	font-size: 30px;
-	margin: 10px 0;
+  font-size: 30px;
+  margin: 10px 0;
 }
 
 .year {
-	font-family: 'Permanent Marker', cursive;
-	font-size: 18px;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 18px;
 }
 
 .top-padding {
-	padding-top: 40px;
+  padding-top: 40px;
 }
