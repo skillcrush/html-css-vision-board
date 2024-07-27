@@ -1,39 +1,40 @@
 body {
-	background: #E8E8E8;
+  background: #E8E8E8;
+  color: #3b3b3b;
 }
 
 #vision-board {
-	width: 1200px;
-	height: 850px;
-	margin: 50px auto;
-	overflow: auto;
-	background: url('../img/background.png');
-	background-size: cover;
-	font-family: 'Montserrat', sans-serif;
-	text-transform: uppercase;
+  width: 1200px;
+  height: 850px;
+  margin: 50px auto;
+  overflow: auto;
+  background: url('../img/background.png');
+  background-size: cover;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
 }
 
 .block {
-	outline: 1px dashed darkgreen;
-	float: left;
-	box-sizing: border-box;
-	width: 400px;
+  outline: 1px dashed darkgreen;
+  float: left;
+  box-sizing: border-box;
+  width: 400px;
 }
 
 .small-block {
-	height: 210px;
-	padding: 20px 40px;
+  height: 210px;
+  padding: 20px 40px;
 }
 
 .large-block {
-	height: 430px;
-	padding: 70px 40px;
+  height: 430px;
+  padding: 70px 40px;
 }
 
 .center {
-	text-align: center;
+  text-align: center;
 }
 
 .right {
-	text-align: right;
+  text-align: right;
 }
